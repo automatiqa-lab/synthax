@@ -10,7 +10,7 @@ Most assistants wait to be asked and forget everything between questions. Syntha
 
 ## Status
 
-Pipeline, in active development. The thinking behind it lives on [alxsidr.io](https://alxsidr.io). Project page: [automatiqa.io/synthax](https://www.automatiqa.io/synthax/).
+Pipeline, in active development. The thinking behind it lives on [automatiqa.io](https://www.automatiqa.io). Project page: [automatiqa.io/synthax](https://www.automatiqa.io/synthax/).
 
 ## License
 
